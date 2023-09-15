@@ -1,0 +1,60 @@
+body{
+    background-image: linear-gradient(to left, rgb(9, 121, 106), rgb(253,187,45));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+legend{
+    font-size: 30px;
+    
+    text-align: center;
+}
+.marge{
+    border-radius: 15%;
+}
+.id{
+    font-size: 20px
+    
+    
+    n;
+}
+
+
+            
+            
+            
+        
+
+        .enfant {
+            text-align: center;
+            
+
+        }
+        fieldset{
+            border: 1px solid ;
+            background-color: rgb(117, 194, 230);
+            height: 300px;
+            width: 500px;
+            border-radius: 10px 100px / 120px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            
+          }
+
+          label{
+            color: blue;
+          
+          
+          
+          }
+          p{
+            
+          }
+
+
+
+        
+        
